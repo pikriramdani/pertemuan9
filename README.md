@@ -15,7 +15,7 @@ Nah, untuk praktikum 4 ini materi yang di dapatkan adalah **list**.<br>
 
 * Berikut adalah tugas dari latihan, bisa di lihat pada gambar dibawah ini :<br>
 ![Soal Tugas Latihan](gambar/soallatihanP4.PNG)<br>
-*Berikut jawabn / *source code* / program sederhana yang telah saya buat :
+*Berikut jawaban / *source code* / program sederhana yang telah saya buat :
 ``` python
 print("Nama : Pikri Ramdani")
 print("NIM : 312010162")
@@ -73,4 +73,13 @@ Untuk tugas yang kedua Tugas praktikum, yaitu tugas untuk membuat program sederh
 * Berikut soal yang di berikan oleh Dosen :<br>
 ![Soal Praktikum](gambar/soalpraktikum.PNG)<br>
 
-* Hasil yang di inginkan 
+* Hasil yang di harapkan oleh dosen seperti berikut :<br>
+![hasil yang diharaphakan oleh dosen](gambar/hasilyangdiinginkan.PNG)<br>
+
+* Selain membaca dan memahami materi yang diberikan oleh Dosen, saya juga mencari refrensi dari google dan forum pemrograman yang ada di internet. pada akhirnya saya bisa membuat program yang diberikan oleh dosen.
+
+* Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :<br>
+``` python
+
+```
+
