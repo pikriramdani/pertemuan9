@@ -69,7 +69,7 @@ print(gabung)
 
 ## Praktikum - Praktikum 4
 
-Untuk tugas yang kedua yaitu Tugas praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data nilai mahasiswa<br>
+Untuk tugas yang kedua Tugas praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data nilai mahasiswa<br>
 * Berikut soal yang di berikan oleh Dosen :<br>
 ![Soal Praktikum](gambar/soalpraktikum.PNG)<br>
 
