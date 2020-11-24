@@ -1,6 +1,6 @@
 print("Nama : Pikri Ramdani")
 print("NIM : 312010162")
-print("Kelas : TI>20.A.1")
+print("Kelas : TI.20.A.1")
 print("===========================")
 print("Latihan - Modul Praktikum 4")
 print()
