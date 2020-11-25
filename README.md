@@ -114,7 +114,7 @@ for item in nilai:
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 print("==================================================================")
 ```
-* Berikut contoh hasil yang saya dapatkan ketika saya menginputkan 1 data mahasiswa :<br>
+* Berikut contoh hasil yang saya dapatkan ketika saya menginputkan 1 data mahasiswa :<br> 
 ![input 1 data mahasiswa](gambar/inputdata1.PNG)
 
 * Berikut contoh hasil yang saya dapatkan ketika saya menginputkan 2 atau lebih Data Nilai Mahasiswa :<br>
@@ -122,6 +122,6 @@ print("==================================================================")
 
 *Saya menjelaskan secara singkat tentang source code tersebut, <br>
 > Saya menggunakan fungsi while untuk mengatur kondisi, seperti while ulang, jadi jika tidak berhenti maka syntax akan terus menampilkan perintah user untuk menginputkan data mahasiswa<br>
->Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf **t** pada perintah : *tambah data? (y/t)*<br>
->Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yaitu 30% dari nilai tugas, 35% dari nilai UTS, dan 35% dari Nilai UAS.<br>
+> Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf **t** pada perintah : *tambah data? (y/t)*<br>
+> Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yaitu 30% dari nilai tugas, 35% dari nilai UTS, dan 35% dari Nilai UAS.<br>
 
