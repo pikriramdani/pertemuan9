@@ -134,7 +134,7 @@ Pada halaman ini (tugas pertemuan9-praktikum5) saya diberikan tugas oleh dosen y
 ![soal praktikum 5](gambar/soalpraktikum5.PNG)
 
 * Dan hasil yang diharapkan oleh dosen :<br>
-![hasil yang diharapkan oleh dosen 1](gambar/hasilyangdiharapkan1.PNGl) <br>
+![hasil yang diharapkan oleh dosen 1](gambar/hasilyangdiharapkan1.PNGl) 
 
 ![hasil yang diharapkan oleh dosen 2](gambar/hasilyangdiharapkan2.PNG)
 
