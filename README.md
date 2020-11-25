@@ -120,7 +120,7 @@ print("==================================================================")
 * Berikut contoh hasil yang saya dapatkan ketika saya menginputkan 2 atau lebih Data Nilai Mahasiswa :<br>
 ![input 2 atau lebih data mahasiswa](gambar/inputdata2.PNG)
 
-*Saya menjelaskan secara singkat tentang source code tersebut, <br>
+* Saya menjelaskan secara singkat tentang source code tersebut, <br>
 > Saya menggunakan fungsi while untuk mengatur kondisi, seperti while ulang, jadi jika tidak berhenti maka syntax akan terus menampilkan perintah user untuk menginputkan data mahasiswa<br>
 > Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf **t** pada perintah : *tambah data? (y/t)*<br>
 > Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yaitu 30% dari nilai tugas, 35% dari nilai UTS, dan 35% dari Nilai UAS.<br>
