@@ -129,7 +129,7 @@ print("==================================================================")
 
 ## pertemuan 9 - praktikum 5
 
-Pada halaman ini (tugas pertemuan9-praktikum5) saya diberikan tugas oleh dosen yaitu membuat program sederhana yang akan menampilkan daftar nilai mahasiswa, menggunakan bahasa pemrograman python. Berikut Source Code yang diberikan oleh dosen :<br>
+Pada halaman ini (tugas pertemuan9-praktikum5) saya diberikan tugas oleh dosen yaitu membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. Berikut Source Code nya :<br>
 ``` python
 P = print
 while True:
