@@ -4,7 +4,7 @@ Repository ini dibuat untuk memenuhi tugas pada pertemuan ke 9.
 
  Nama   : Pikri Ramdani <br>
  NIM    : 312010162     <br>
-Kelas   : TI.20.A.1     <br>
+ Kelas  : TI.20.A.1     <br>
 
 Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi *list, Tuple dan Dictianory*.<br>
 Nah, untuk praktikum 4 ini materi yang di dapatkan adalah **list**.<br>
@@ -78,7 +78,7 @@ Untuk tugas yang kedua Tugas praktikum, yaitu tugas untuk membuat program sederh
 
 * Selain membaca dan memahami materi yang diberikan oleh Dosen, saya juga mencari refrensi dari google dan forum pemrograman yang ada di internet. pada akhirnya saya bisa membuat program yang diberikan oleh dosen.
 
-* Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :<br>
+* Berikut source code yang telah saya temukan untuk membuat program sederhana Data Nilai Mahasiswa :<br>__
 ``` python
 print("Nama : Pikri Ramdani")
 print("NIM : 312010162")
@@ -114,4 +114,5 @@ for item in nilai:
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 print("==================================================================")
 ```
-
+* Berikut hasilyang saya dapatkan ketika saya menginputkan 1 data mahasiswa :<br>
+![input 1 data mahasiswa](gambar/inputdata1.PNG)
