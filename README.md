@@ -11,7 +11,7 @@ Nah, untuk praktikum 4 ini materi yang di dapatkan adalah **list**.<br>
 <br>
 * Didalam materi praktikum 4 ini terdapat 2 tugas. yaitu : Latihan dan Praktikum.<br>
 
-## praktikum 4 - Latihan
+## pertemuan 9 - praktikum 4 - Latihan
 
 * Berikut adalah tugas dari latihan, bisa di lihat pada gambar dibawah ini :<br>
 ![Soal Tugas Latihan](gambar/soallatihanP4.PNG)<br>
@@ -67,7 +67,7 @@ print(gabung)
 * Untuk hasil dari source code tersebut adalah seperti berikut : <br>
 ![Hasil Soal Latihan](gambar/hasilsoallatihan.PNG)<br>
 
-## Praktikum - Praktikum 4
+## Pertemuan 9 - Praktikum 4
 
 Untuk tugas yang kedua Tugas praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data nilai mahasiswa<br>
 * Berikut soal yang di berikan oleh Dosen :<br>
@@ -125,3 +125,8 @@ print("==================================================================")
 > Penjelasan tersebut atau bisa digunakan ketika kita mengetikan huruf **t** pada perintah : *tambah data? (y/t)*<br>
 > Untuk perhitungan nilai akhir sesuai dengan ketentuan yang dosen inginkan, yaitu 30% dari nilai tugas, 35% dari nilai UTS, dan 35% dari Nilai UAS.<br>
 
+<hr>
+
+## pertemuan 9 - praktikum 5
+
+Pada halaman ini (tugas pertemuan9-praktikum5) saya diberikan tugas oleh dosen yaitu membuat program sederhana yang akan menampilkan daftar nilai mahasiswa, menggunakan bahasa pemrograman python. Berikut Source Code yang diberikan oleh dosen :<br>
