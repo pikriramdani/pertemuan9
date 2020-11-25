@@ -138,7 +138,7 @@ Pada halaman ini (tugas pertemuan9-praktikum5) saya diberikan tugas oleh dosen y
 
 ![hasil yang diharapkan oleh dosen 2](gambar/hasilyangdiharapkan2.PNG)
 
-* Berikut Source Code nya :<br>
+* Berikut Source Code yang telah saya temukan untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa :<br>
 ``` python
 P = print
 while True:
